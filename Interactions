@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Bot Interactions Endpoint</title>
+</head>
+<body>
+    <h1>Bot Interactions Endpoint</h1>
+    <p>This page is a placeholder for the Discord bot interactions endpoint.</p>
+    <p>No real data is collected here. Requests from Discord should be handled by your bot server.</p>
+</body>
+</html>
